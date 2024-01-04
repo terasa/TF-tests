@@ -1,7 +1,8 @@
 repo_name: terasa/TF-tests
 report_id: 689ad571923edac5a42770f46b59e93b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T14:31:48+00:00'
+timestamp: '2024-01-04T14:55:44+00:00'
 requested_by: terasa
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/terasa/TF-tests
   detection_source: Repo Metadata
